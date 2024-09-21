@@ -1,1 +1,1 @@
-# microservice-tutorial-config
+Will contain configuration of microservice application
